@@ -1,7 +1,7 @@
 [![MasterHead](https://share.creavite.co/662eb394e877555b0b3916b8.gif)](https://teomanasrintalih.com)
 
 - 🧐 I’m currently working about [Robotic Hand Project](https://github.com/teomanasrintalih/Robotichand)
-
+- 🎮 Loves game development.
 - 🎈 How to contact with me: **teomanasrintalih@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
