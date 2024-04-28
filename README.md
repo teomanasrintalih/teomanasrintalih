@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Teoman Asrın Talih</h1>
-<h3 align="center">Developer from Ankara, Türkiye.</h3>
-
 [![MasterHead](https://share.creavite.co/662eb394e877555b0b3916b8.gif)](https://teomanasrintalih.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teomanasrintalih&label=Profile%20views&color=0e75b6&style=flat" alt="teomanasrintalih" /> </p>
