@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teomanasrintalih&label=Profile%20views&color=0e75b6&style=flat" alt="teomanasrintalih" /> </p>
 
-- 🧐 I’m currently working on [Robotic Hand Project](https://github.com/teomanasrintalih/Robotichand)
+- 🧐 I’m currently working about [Robotic Hand Project](https://github.com/teomanasrintalih/Robotichand)
 
-- 🎈 How to contact me: **teomanasrintalih@gmail.com**
+- 🎈 How to contact with me: **teomanasrintalih@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
