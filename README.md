@@ -1,5 +1,4 @@
 [![MasterHead](https://share.creavite.co/662eb394e877555b0b3916b8.gif)](https://teomanasrintalih.com)
-<h1 align="center"></h1>
 <h3 align="center"></h3>
 
 - 🧐 I’m currently working about [Robotic Hand Project](https://github.com/teomanasrintalih/Robotichand)
