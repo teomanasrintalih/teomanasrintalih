@@ -6,10 +6,6 @@
 - 🎈 How to contact with me: **teomanasrintalih@gmail.com**
 
 <h1 align="center"></h1>
-<h3 align="left">My social media accounts:</h3>
-<p align="left">
-<a href="https://twitter.com/goleovl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goleovl" height="30" width="40" /></a>
-</p>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
