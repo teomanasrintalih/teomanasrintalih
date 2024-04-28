@@ -4,7 +4,7 @@
 
 - 🧐 I’m currently working on [Robotic Hand Project](https://github.com/teomanasrintalih/Robotichand)
 
-- 📫 How to reach me **teomanasrintalih@gmail.com**
+- 🎈 How to contact me: **teomanasrintalih@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
