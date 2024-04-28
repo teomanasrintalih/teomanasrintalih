@@ -5,7 +5,7 @@
 - 🎮 Loves game development.
 - 🎈 How to contact with me: **teomanasrintalih@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My social media accounts:</h3>
 <p align="left">
 <a href="https://twitter.com/goleovl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goleovl" height="30" width="40" /></a>
 </p>
