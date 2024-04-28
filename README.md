@@ -4,6 +4,7 @@
 - 🧐 I’m currently working about [Robotic Hand Project](https://github.com/teomanasrintalih/Robotichand)
 - 🎮 Loves game development.
 - 🎈 How to contact with me: **teomanasrintalih@gmail.com**
+<h3 align="center"></h3>
 
 <h3 align="left">Social media accounts:</h3>
 <p align="left">
