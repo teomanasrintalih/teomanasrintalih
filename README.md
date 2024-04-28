@@ -1,6 +1,6 @@
-[![MasterHead](https://share.creavite.co/662eb394e877555b0b3916b8.gif)](https://teomanasrintalih.com)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teomanasrintalih&label=Profile%20views&color=0e75b6&style=flat" alt="teomanasrintalih" /> </p>
+
+[![MasterHead](https://share.creavite.co/662eb394e877555b0b3916b8.gif)](https://teomanasrintalih.com)
 
 - 🧐 I’m currently working about [Robotic Hand Project](https://github.com/teomanasrintalih/Robotichand)
 
