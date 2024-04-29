@@ -1,4 +1,3 @@
-<div align="right">
 [![MasterHead](https://share.creavite.co/662eb394e877555b0b3916b8.gif)](https://teomanasrintalih.com)
 <h3 align="center"></h3>
 
@@ -30,6 +29,4 @@
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teomanasrintalih&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dark&hide_border=false&order=2" height="85" alt="languages graph"  />
-</div>
-
 </div>
