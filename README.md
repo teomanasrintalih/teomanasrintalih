@@ -21,6 +21,6 @@
   </a>
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teomanasrintalih&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dark&hide_border=false&order=2" height="70" alt="languages graph"  />
 </div>
