@@ -22,9 +22,6 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teomanasrintalih&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dark&hide_border=false&order=2" height="85" alt="languages graph"  />
-</div>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo"  />
   <img width="37" />  
@@ -41,4 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="25" alt="mysql logo"  />
   <img width="37" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+</div>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teomanasrintalih&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dark&hide_border=false&order=2" height="85" alt="languages graph"  />
 </div>
