@@ -28,6 +28,7 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://skillicons.dev/icons?i=arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" alt="arduino" width="40" height="40"/> </a> <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="arduino" width="40" height="40"/> </a> 
 
 <h3 align="center"></h3>
+<h3 align="center"></h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teomanasrintalih&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dark&hide_border=false&order=2" height="85" alt="languages graph"  />
 </div>
