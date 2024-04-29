@@ -24,9 +24,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo"  />
-  <img width="37" />
-  <img src="https://skillicons.dev/icons?i=unity" height="25" alt="unity logo"  />
-  <img width="37" />
+  <img width="37" />  <img src="https://skillicons.dev/icons?i=unity" height="25" alt="unity logo"  />   <img width="37" />
+
+
   <img src="https://skillicons.dev/icons?i=visualstudio" height="25" alt="visualstudio logo"  />
   <img width="37" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25" alt="photoshop logo"  />
