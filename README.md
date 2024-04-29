@@ -22,23 +22,8 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo"  />
-  <img width="37" />  
-  <img src="https://skillicons.dev/icons?i=unity" height="25" alt="unity logo"  />   
-  <img width="37" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="25" alt="visualstudio logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25" alt="photoshop logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="25" alt="windows8 logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="25" alt="arduino logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="25" alt="mysql logo"  />
-  <img width="37" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-</div>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=teomanasrintalih&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=5&theme=dark&hide_border=false&order=2" height="85" alt="languages graph"  />
 </div>
