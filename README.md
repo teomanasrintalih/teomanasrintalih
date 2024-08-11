@@ -1,9 +1,8 @@
 ![MasterHead](https://cdn.glitch.global/031512b9-262a-4e9d-96db-3b9b72700e7f/standard.gif?v=1723379914231)
 <h3 align="center"></h3>
 
-- 👀 I’m currently working about [VisualColor Project](https://github.com/teomanasrintalih/visualcolor).
-- 🎮 Loves game development.
-- 🎈 How to contact with me: **teomanasrintalih@gmail.com**
+- 👀 | I’m currently working about [VisualColor Project](https://github.com/teomanasrintalih/visualcolor).
+- 🍻 | How to contact with me: **teomanasrintalih@gmail.com**
 
 <h1 align="center"></h1>
 <h3 align="left">My social media accounts:</h3>
