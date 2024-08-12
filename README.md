@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.glitch.global/031512b9-262a-4e9d-96db-3b9b72700e7f/standard.gif?v=1723379914231)
+![MasterHead](https://cdn.glitch.global/0a581c07-96b7-4e2f-a84d-89de30069f01/standard%20(1).gif?v=1723477003866)
 <h3 align="center"></h3>
 
 - 👀 | I’m currently working about [VisualColor Project](https://github.com/teomanasrintalih/visualcolor).
