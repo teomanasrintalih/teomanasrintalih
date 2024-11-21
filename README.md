@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.redd.it/0w8k67nd28971.gif" alt="MasterHead" width="100%" />
+  <img src="https://i.redd.it/0w8k67nd28971.gif" alt="MasterHead" width="50%" />
 </div>
 
 <h3 align="center">👋 Hi, I'm Teoman</h3>
