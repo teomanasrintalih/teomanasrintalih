@@ -1,4 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=teomanasrintalih&theme=dark&hide_border=true&border_radius=1&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+![MasterHead](https://i.redd.it/0w8k67nd28971.gif)
 
 <h3>👋 Hi, I'm Teoman</h3>
 
@@ -34,3 +34,8 @@
     <img src="https://skillicons.dev/icons?i=arduino,mysql,python,java,androidstudio,photoshop,ae,blender,bootstrap,dotnet,firebase,jquery,windows" alt="Other Tools" />
   </a>
 </p>
+
+---
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=teomanasrintalih&theme=dark&hide_border=true&border_radius=1&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+
