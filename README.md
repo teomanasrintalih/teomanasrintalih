@@ -32,12 +32,6 @@
 <h3 align="left">📚 Others:</h3>
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino,mysql,python,java,androidstudio" alt="Other Tools" />
-  </a>
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop" />
-  </a>
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40" alt="After Effects" />
+    <img src="https://skillicons.dev/icons?i=arduino,mysql,python,java,androidstudio,photoshop,ae" alt="Other Tools" />
   </a>
 </p>
