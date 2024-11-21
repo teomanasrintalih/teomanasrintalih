@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://i.redd.it/0w8k67nd28971.gif" alt="MasterHead" width="50%" />
-</div>
+![MasterHead](https://i.redd.it/0w8k67nd28971.gif)
+<h3 align="center"></h3>
 
-<h3 align="center">👋 Hi, I'm Teoman</h3>
+<h3>👋 Hi, I'm Teoman</h3>
 
 - 👀 I’m currently working on the [VisualColor Project](https://github.com/teomanasrintalih/visualcolor).  
 - 🍻 You can contact me at: **teomanasrintalih@gmail.com**
