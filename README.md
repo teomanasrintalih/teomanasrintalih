@@ -32,6 +32,6 @@
 <h3 align="left">📚 Others:</h3>
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino,mysql,python,java,androidstudio,photoshop,ae" alt="Other Tools" />
+    <img src="https://skillicons.dev/icons?i=arduino,mysql,python,java,androidstudio,photoshop,ae,blender,bootstrap,dotnet,firebase,jquery,windows" alt="Other Tools" />
   </a>
 </p>
