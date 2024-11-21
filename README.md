@@ -1,5 +1,4 @@
-![MasterHead](https://i.redd.it/0w8k67nd28971.gif)
-<h3 align="center"></h3>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=teomanasrintalih&theme=dark&hide_border=true&border_radius=1&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 <h3>👋 Hi, I'm Teoman</h3>
 
