@@ -2,7 +2,7 @@
 
 <h3>👋 Hi, I'm Teoman</h3>
 
-- 👀 I’m currently working on the [VisualColor Project](https://github.com/teomanasrintalih/teBot).  
+- 👀 I’m currently working on the [teBot Project](https://github.com/teomanasrintalih/teBot).  
 - 🍻 You can contact me at: **teomanasrintalih@gmail.com**
 
 ---
