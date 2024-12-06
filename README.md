@@ -1,5 +1,4 @@
-![MasterHead](https://i.redd.it/0w8k67nd28971.gif)
-
+![MasterHead](https://media1.tenor.com/m/g7YFsfj3BG4AAAAd/teoxioashi.gif)
 
 <h3>👋 Hi, I'm Teoman</h3>
 
