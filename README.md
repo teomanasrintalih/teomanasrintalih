@@ -4,7 +4,7 @@
 
 - 👀 I’m currently working on the [teBot Project](https://github.com/teomanasrintalih/teBot).  
 - 🍻 You can contact me at: **teomanasrintalih@gmail.com**
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 <h3 align="left">🌐 Social Media:</h3>
@@ -37,5 +37,5 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
