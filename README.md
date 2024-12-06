@@ -18,8 +18,9 @@
     <img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,html,css,js" alt="Preferred Tools" />
   </a>
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">📚 Others:</h3>
 <p align="left">
