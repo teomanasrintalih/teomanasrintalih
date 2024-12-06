@@ -1,11 +1,11 @@
-<div align="left">
-  <div style="display: inline-block; text-align: left;">
+<div style="display: flex; justify-content: space-between;">
+  <div>
     <h3>👋 Hi, I'm Teoman</h3>
     <p>- 👀 I’m currently working on the <a href="https://github.com/teomanasrintalih/teBot">teBot Project</a>.</p>
     <p>- 🌐 Click <a href="https://teomanasrin.glitch.me/MODERNPORTFOLYO/portfolyo.html">here</a> to see my detailed portfolio.</p>
     <p>- 🍻 You can contact me at: teomanasrintalih@gmail.com</p>
   </div>
-  <img src="https://media1.tenor.com/m/g7YFsfj3BG4AAAAd/teoxioashi.gif" alt="MasterHead" style="float: right; margin-left: 20px; width: 150px;">
+  <img src="https://media1.tenor.com/m/g7YFsfj3BG4AAAAd/teoxioashi.gif" alt="MasterHead" style="width: 150px;">
 </div>
 
 ---
