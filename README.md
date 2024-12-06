@@ -1,14 +1,12 @@
 ![MasterHead](https://i.redd.it/0w8k67nd28971.gif)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <h3>👋 Hi, I'm Teoman</h3>
 
 - 👀 I’m currently working on the [teBot Project](https://github.com/teomanasrintalih/teBot).  
 - 🍻 You can contact me at: **teomanasrintalih@gmail.com**
 
----
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
