@@ -1,4 +1,5 @@
 ![MasterHead](https://i.redd.it/0w8k67nd28971.gif)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <h3>👋 Hi, I'm Teoman</h3>
 
@@ -20,7 +21,7 @@
 </p>
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <h3 align="left">📚 Others:</h3>
 <p align="left">
