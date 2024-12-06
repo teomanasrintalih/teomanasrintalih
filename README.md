@@ -6,19 +6,9 @@
 - 🍻 You can contact me at: **teomanasrintalih@gmail.com**
 
 ---
-
-<h3 align="left">🌐 Social Media:</h3>
-<p align="left">
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord" />
-  </a>
-  <a href="https://twitter.com/goleovl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="Twitter" />
-  </a>
-</p>
-
----
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
+
 
 <h3 align="left">🛠️ Preferred Tools:</h3>
 <p align="left">
