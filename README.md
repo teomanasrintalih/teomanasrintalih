@@ -39,5 +39,5 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=teomanasrintalih&theme=dark&hide_border=true&border_radius=1&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 <br>
-![teomanasrintalih's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 
