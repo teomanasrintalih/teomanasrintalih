@@ -37,7 +37,5 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=teomanasrintalih&theme=dark&hide_border=true&border_radius=1&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
