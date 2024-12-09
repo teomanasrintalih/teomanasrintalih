@@ -13,7 +13,7 @@
 
 <div>
   <h3>📊 GitHub Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teomanasrintalih&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Stats">
 </div>
 
 ---
