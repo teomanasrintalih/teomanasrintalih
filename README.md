@@ -4,7 +4,6 @@
     <p>- 👀 I’m currently working on the <a href="https://github.com/teomanasrintalih/teBot">teBot Project</a>.</p>
     <p>- 🌐 Click <a href="https://teomanasrin.glitch.me/MODERNPORTFOLYO/portfolyo.html">here</a> to see my detailed portfolio.</p>
     <p>- 🍻 You can contact me at: teomanasrintalih@gmail.com</p>
-      <img align="right" src="https://media1.tenor.com/m/g7YFsfj3BG4AAAAd/teoxioashi.gif" width="100px" height="100px" alt="MasterHead">
   </div>
 </div>
 
