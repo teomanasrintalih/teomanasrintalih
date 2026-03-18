@@ -1,8 +1,8 @@
 <div>
   <div>
     <h3>👋 Hi, I'm Teoman</h3>
-    <p>- 👀 I’m currently working on the <a href="https://github.com/teomanasrintalih/teBot">teBot Project</a>.</p>
-    <p>- 🌐 Click <a href="https://teomanasrin.glitch.me/MODERNPORTFOLYO/portfolyo.html">here</a> to see my detailed portfolio.</p>
+    <!--<p>- 👀 I’m currently working on the <a href="https://github.com/teomanasrintalih/teBot">teBot Project</a>.</p>
+    <p>- 🌐 Click <a href="https://teomanasrin.glitch.me/MODERNPORTFOLYO/portfolyo.html">here</a> to see my detailed portfolio.</p>-->
     <p>- 🍻 You can contact me at: teomanasrintalih@gmail.com</p>
   </div>
 </div>
@@ -29,6 +29,6 @@
 <h3 align="left">📚 Others:</h3>
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=arduino,mysql,python,java,androidstudio,photoshop,ae,blender,bootstrap,dotnet,firebase,jquery,windows,unreal" alt="Other Tools" />
+    <img src="https://skillicons.dev/icons?i=arduino,mysql,python,java,androidstudio,photoshop,ae,blender,bootstrap,dotnet,windows" alt="Other Tools" />
   </a>
 </p>
